@@ -275,7 +275,7 @@ function App() {
                   +91 97041 33928
                 </a>
                 <div className="social-links">
-                  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn <ArrowIcon diagonal /></a>
+                  <a href="https://www.linkedin.com/in/nagaraju-gajarla/" target="_blank" rel="noreferrer">LinkedIn <ArrowIcon diagonal /></a>
                   <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub <ArrowIcon diagonal /></a>
                 </div>
               </div>

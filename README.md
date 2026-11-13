@@ -42,7 +42,7 @@ aboutme/
 npm install
 ```
 
-2. Start the development server:
+2. Start the development server:4
 
 ```bash
 npm run dev
